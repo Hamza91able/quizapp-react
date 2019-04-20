@@ -1,9 +1,9 @@
 # Quiz App
 Quiz App developed using React JS
 
-.Front End: React JS
-.Back End: Firebase
-.DataBase: Firebase Real Time Database.
+* Front End: React JS
+* Back End: Firebase
+* DataBase: Firebase Real Time Database.
 
 ## Features
 
