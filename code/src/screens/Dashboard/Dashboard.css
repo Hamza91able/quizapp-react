@@ -1,0 +1,18 @@
+.quiz-list {
+    margin-left: 30px;
+    width: 95%;
+}
+
+.user-loggedin {
+    margin-left: 30px;
+    width: 30%;
+}
+
+.joined-courses {
+    margin-left: 30px;
+    width: 40%;
+}
+
+.join-btn {
+    float: right;
+}

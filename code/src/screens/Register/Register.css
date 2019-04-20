@@ -1,0 +1,100 @@
+.sign-up{
+	width: 40%;
+    margin: 0 auto;
+}
+.sign-up h1 {
+    text-align: center;
+    font-size: 2em;
+    color:#f3c500;
+    margin: 0 0 0.5em;
+}
+p.creating{
+	color:#999;
+	font-size:14px;
+	margin:.5em 0 3em;
+	line-height:1.8em;
+	text-align:center;
+	}
+.sign-up1{
+	float:left;
+	width:27%;
+	}
+.sign-up1 h4{
+	color:#3C4348;
+	margin:1.6em 0 1em;
+	font-size:18px;
+	}
+.sign-up2{
+	float:right;
+	width:70%;
+	}
+.sign-up2 input[type="text"]{
+	outline:none;
+	border:1px solid #BEBEBE;
+	background:none;
+	font-size:15px;
+	padding:10px 10px;
+	width:100%;
+	margin:1em 0;
+	}
+.sign-up2 input[type="password"]{
+	outline:none;
+	border:1px solid #BEBEBE;
+	background:none;
+	font-size:15px;
+	padding:10px 10px;
+	width:100%;
+	margin:1em 0;
+	}
+.sign-up h2{
+	margin: 0 0 2em;
+	color:#01a185;
+	font-size: 20px;
+	}
+.sign-up h6{
+	margin: 2em 0 1em;
+	color:#F44336;
+	font-size: 20px;
+	}
+.sign-up input[type="submit"]{
+	outline: none;
+    border: none;
+    background: #01a185;
+    color: #fff;
+    font-size: 1em;
+    text-align: center;
+    width: 100%;
+    padding: 10px 0;
+    transition: .5s all;
+    -webkit-transition: .5s all;
+    -moz-transition: .5s all;
+    -o-transition: .5s all;
+    -ms-transition: .5s all;
+	}
+.sign-up input[type="submit"]:hover{
+	background:#f3c500;
+	color:#fff;
+	}
+.sub_home {
+    margin: 3em 0 0;
+}
+.sub_home_left{
+	float:left;
+	width:30%;
+}
+.sub_home_right{
+	float:right;
+	width:50%;
+}
+.sub_home_right p{
+	font-size:1em;
+	color:#999;
+	margin:.7em 0 0;
+}
+.sub_home_right p a{
+	text-decoration:underline;
+	color:#f3c500;
+}
+.sub_home_right p a:hover{
+	color:#999;
+}

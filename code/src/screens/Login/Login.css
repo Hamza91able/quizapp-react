@@ -1,0 +1,95 @@
+.sign-in-wrapper{
+	background:#f9f9f9;
+}
+.graphs {
+    padding: 50px 0;
+    margin-top: 125px;
+}
+.sign-in-form{
+	margin:0 auto;
+	width:35%;
+}
+.sign-in-form-top{
+	display: block;
+    padding: 0 0 15px;
+}
+.sign-in-form-top h1{
+	color:#000;
+	margin:0;
+	font-size:2em;
+	font-weight:300;
+	text-decoration:none;
+}
+.sign-in-form input[type="button"] {
+	font-size: 17px;
+    color: #fff;
+    background: #01a185;
+    border: none;
+    padding: 10px 0;
+    width: 45%;
+    display: block;
+    outline: none;
+    border-radius: 0;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    -ms-border-radius: 0px;
+    -o-border-radius: 0px;
+    cursor: pointer;
+    margin: 0.5em 0 0 27.5%;
+}
+.sign-in-form input[type="button"]:hover {
+	 background:#f3c500;
+	 transition: 0.5s all;
+  -webkit-transition: 0.5s all;
+  -moz-transition: 0.5s all;
+  -o-transition: 0.5s all;
+}
+.signin {
+    padding: 2em;
+	position:relative;
+    background: #fff;
+    height: 250px;
+}
+.log-input input[type="text"],.log-input input[type="password"] {
+    font-size: 0.95em;
+    padding: 10px 15px 10px 37px;
+    width: 98%;
+    color: #A8A8A8;
+    outline: none;
+    border: 1px solid #D3D3D3;
+    border-radius: 0px;
+      -webkit-border-radius: 0px;
+      -moz-border-radius: 0px;
+      -ms-border-radius: 0px;
+      -o-border-radius: 0px;
+    background: #FFFFFF;
+    margin: 0em 0em 1.5em 0em;
+    border-style: solid;
+}
+.log-input input.user {
+    background: url(images/user.png)no-repeat 8px 10px #fff;
+}
+.log-input input.lock {
+    background: url(images/lock.png)no-repeat 8px 10px #fff;
+}
+
+@media (max-width: 480px){
+    .graphs {
+        padding: 30px 0 50px;
+        margin-top: 120px;
+    }
+    .sign-in-form {
+		width: 90%;
+	}
+	.sign-in-form input[type="button"] {
+		font-size: 16px;
+		padding: 8px 0;
+		width: 38%;
+	}
+}
+
+@media (max-width: 414px){
+    .signin-rit p {
+		margin-top: 4px;
+	}
+}
