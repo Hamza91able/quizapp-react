@@ -1,5 +1,5 @@
 # Quiz App
-Quiz App developed using React JS
+Quiz App developed using React JS. Inspired by Quiz.Panacloud.com
 
 * Front End: React JS
 * Back End: Firebase
